@@ -5,13 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=6366f1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Builder;Next.js+%2B+Firebase+%2B+TypeScript;Building+Products+that+Actually+Ship" alt="Typing SVG" />
   <br/><br/>
-  <a href="https://edunex-ai.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-edunex--ai.vercel.app-6366f1?style=flat-square&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="mailto:support@edunex.ai">
-    <img src="https://img.shields.io/badge/Email-support@edunex.ai-EA4335?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=white" />
-  </a>
+ 
 </div>
 
 <br/>
