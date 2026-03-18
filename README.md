@@ -5,7 +5,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=6366f1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Builder;Next.js+%2B+Firebase+%2B+TypeScript;Building+Products+that+Actually+Ship" alt="Typing SVG" />
   <br/><br/>
- 
+  <a href="https://edunex-ai.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-edunex--ai.vercel.app-6366f1?style=flat-square&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="mailto:support@edunex.ai">
+    <img src="https://img.shields.io/badge/Email-support@edunex.ai-EA4335?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 <br/>
@@ -14,7 +20,7 @@
 
 I'm **Vishesh**, a Full Stack Developer from India building AI-powered products with modern web technologies. I focus on shipping complete, production-ready applications — from architecture to deployment.
 
-Currently building **EduNex AI**, a study platform for Indian students with AI tutoring, smart notes, and PYQ papers — serving 10,000+ students across 9th–12th, BCA, BTech, and BBA courses.
+Currently building **EduNex AI**, an AI-powered study platform for Indian students — covering smart notes, PYQ papers, and an AI Tutor that works in both Hindi and English. Designed for 9th–12th, BCA, BTech, and BBA students. Still growing, always shipping.
 
 <br/>
 
@@ -101,6 +107,9 @@ No login, no signup — enter any GitHub username and get a full stats card with
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=visheshrai296-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=0d9488&currStreakNum=6366f1&sideNums=6366f1&currStreakLabel=6366f1&dates=FFFFFF" alt="GitHub Streak" />
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshrai296-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e8eeff" alt="Top Languages" />
 
 </div>
 
