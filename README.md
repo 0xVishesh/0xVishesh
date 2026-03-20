@@ -1,85 +1,76 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=0xVishesh&fontSize=90&animation=fadeIn&fontAlignY=38" />
+</p>
 
-```
- ██████╗ ██╗  ██╗██╗   ██╗██╗███████╗██╗  ██╗███████╗███████╗██╗  ██╗
-██╔═████╗╚██╗██╔╝██║   ██║██║██╔════╝██║  ██║██╔════╝██╔════╝██║  ██║
-██║██╔██║ ╚███╔╝ ██║   ██║██║███████╗███████║█████╗  ███████╗███████║
-████╔╝██║ ██╔██╗ ╚██╗ ██╔╝██║╚════██║██╔══██║██╔══╝  ╚════██║██╔══██║
-╚██████╔╝██╔╝ ██╗ ╚████╔╝ ██║███████║██║  ██║███████╗███████║██║  ██║
- ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+## 👋 Hello, World! I'm Vishesh.
 
-# `> 0xVishesh`
-
-**`Aspiring Full Stack Web Developer`**
-
-*Delhi, India 📍 — Building the future, one commit at a time*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Future+Full+Stack+Developer+%F0%9F%9A%80;Learning+Every+Single+Day+%F0%9F%92%AA;Code+%2B+Consistency+%3D+Success+%E2%9C%85;0xVishesh+in+the+making...)](https://git.io/typing-svg)
-
-</div>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;BCA+Student+%40+1st+Sem;Founder+of+EduNex+AI;Freelance+Web+Architect" alt="Typing SVG" />
+</p>
 
 ---
 
-## `whoami`
+### 🚀 About Me
+I am a **Full Stack Developer** currently pursuing my **Bachelor of Computer Applications (BCA)**. I bridge the gap between complex backend logic and intuitive frontend design. My goal is to build digital solutions that are not just functional, but impactful.
 
-```bash
-$ whoami
-> Vishesh Rai — 0xVishesh
-> Location    : Delhi, India
-> Mission     : Full Stack Web Developer
-> Status      : Learning & Growing Every Day 🚀
-> Mindset     : Consistency > Perfection
-```
+- 🔭 **Current Venture:** Building **EduNex AI**, a platform revolutionizing educational resources for students.
+- 🎓 **Education:** BCA 1st Semester (Focusing on Computer Science fundamentals).
+- 💼 **Freelancing:** Open for high-quality web development projects.
+- 🧠 **Learning:** Scaling Microservices and Advanced DevOps.
 
 ---
 
-## `./roadmap.sh`
+### 💻 Tech Stack Portfolio
 
-```
-[██████████░░░░░░░░░░] Currently Loading Skills...
-
-  ✅ Starting the journey         — DONE
-  🔄 HTML & CSS                   — IN PROGRESS
-  ⏳ JavaScript                   — NEXT
-  ⏳ React.js                     — COMING SOON
-  ⏳ Node.js & Express            — COMING SOON
-  ⏳ Databases (MongoDB/Postgres) — COMING SOON
-  ⏳ Full Stack Projects          — THE GOAL 🎯
-```
-
----
-
-## `git log --philosophy`
-
-```diff
-+ I believe in learning in public
-+ I believe consistency beats talent
-+ I believe every expert was once a beginner
-- I don't believe in shortcuts
-- I don't believe in giving up
-```
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><br><b>Frontend</b><br>
+      React.js, Next.js, Tailwind, JavaScript (ES6+)
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png"/><br><b>Backend</b><br>
+      Node.js, Express, REST APIs, Auth (JWT)
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png"/><br><b>Database & Tools</b><br>
+      MongoDB, PostgreSQL, Git, Docker
+    </td>
+  </tr>
+</table>
 
 ---
 
-## `./connect.sh`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0xVishesh-181717?style=for-the-badge&logo=github)](https://github.com/0xVishesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishesh_Rai-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishesh-rai)
-
-</div>
+### 🛠 Projects In Progress
+- **EduNex AI** 📚: An AI-driven resource hub for college and school students.
+- **Portfolio Website** 🌐: A sleek, animated 3D portfolio using Three.js (Coming Soon).
 
 ---
 
-<div align="center">
+### 📊 GitHub Analytics (Real-time)
 
-```
-"The best time to start was yesterday.
- The second best time is NOW."
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xVishesh&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xVishesh&theme=transparent&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff" width="48%" />
+</p>
 
-*— 0xVishesh | Started: March 2026 | Watch this space 👀*
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xVishesh&theme=transparent" width="100%" />
+</p>
 
-</div>
+---
+
+### 📨 Get In Touch
+I'm always open to collaborating on open-source projects or discussing new opportunities!
+
+* 📧 **Email:** [0xvishesh@gmail.com](mailto:0xvishesh@gmail.com)
+* 💼 **LinkedIn:** [Pending Update...]
+* 🛠 **Freelance:** [DM for Projects]
+
+<p align="right">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
